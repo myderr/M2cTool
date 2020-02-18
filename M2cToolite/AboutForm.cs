@@ -26,7 +26,7 @@ namespace M2cToolite
 
         private void LinkLabel_QQgroup_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            MessageBox.Show("?","?");
+            MessageBox.Show("?","??");
         }
     }
 }
